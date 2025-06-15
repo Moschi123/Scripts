@@ -1,0 +1,7 @@
+ID,Nombre,Edad,Correo Electrónico,Fecha Registro
+1,Juan Pérez,30,juan@example.com,2023-05-10 00:00:00
+2,María López,,maria@otro.com,2024-01-20 00:00:00
+3,,25,pedro@mail.net,2023-11-01 00:00:00
+,,,,
+,,,,
+,,,,
